@@ -10,7 +10,7 @@
 <li style="color: #000000;"><a href="https://importer.uinbanten.ac.id/img/-/">https://importer.uinbanten.ac.id/img/-/</a></li>
 <li style="color: #000000;"><a href="https://duk.iaincurup.ac.id/content/images/-/">https://duk.iaincurup.ac.id/content/images/-/</a></li>
 <li style="color: #000000;"><a href="https://alumni.bsi.ac.id/gombo/">https://alumni.bsi.ac.id/gombo</a></li>
-<li style="color: #000000;"><a href="https://esakip.deliserdangkab.go.id/2024/-/">https://esakip.deliserdangkab.go.id/2024/-/</a></li>
+<li style="color: #000000;"><a href="http://esakip.deliserdangkab.go.id/2024/-/">http://esakip.deliserdangkab.go.id/2024/-/</a></li>
 </ul>
 
 <ul style="display:none">
