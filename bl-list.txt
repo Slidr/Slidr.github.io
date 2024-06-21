@@ -12,6 +12,7 @@
 <li style="color: #000000;"><a href="https://alumni.bsi.ac.id/gombo/">https://alumni.bsi.ac.id/gombo</a></li>
 <li style="color: #000000;"><a href="https://presensi.bsi.ac.id/">https://presensi.bsi.ac.id</a></li>
 <li style="color: #000000;"><a href="https://alumni.nusamandiri.ac.id/.well-known/">https://alumni.nusamandiri.ac.id/.well-known</a></li>
+<li style="color: #000000;"><a href="https://www.adinda-siaga.kuningankab.go.id/.well-known/">https://www.adinda-siaga.kuningankab.go.id/.well-known</a></li>
 </ul>
 
 <ul style="display:none">
