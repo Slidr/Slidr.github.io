@@ -22,7 +22,10 @@
     <li style="color: #000000;"><a href="http://studentportal.helb.co.ke/">capitalslot88</a></li>
     <li style="color: #000000;"><a href="https://www.iinvestoffice.com/-/">https://www.iinvestoffice.com/-/</a></li>
     <li style="color: #000000;"><a href="https://cas.gob.ar/assets/-/">https://cas.gob.ar/assets/-/</a></li>
-    <li style="color: #000000;"><a href="https://www.kawasaki-motor.co.id/-/">https://www.kawasaki-motor.co.id/-/</a></li>
     <li style="color: #000000;"><a href="https://www.kawasaki.com.au/-/">https://www.kawasaki.com.au/-/</a></li>
     <li style="color: #000000;"><a href="https://www.unass.fr/-/">https://www.unass.fr/-/</a></li>
+</ul>
+
+<ul style="display:none">
+<li style="color: #000000;"><a href="https://bukutoleransi.com/toto-slot/">Toto Slot</a></li>
 </ul>
