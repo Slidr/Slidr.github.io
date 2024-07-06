@@ -18,6 +18,7 @@
     <li style="color: #000000;"><a href="https://ttms.motac.gov.my/storage/uploads/">Toto Slot</a></li>
     <li style="color: #000000;"><a href="https://www.unass.fr/-/">https://www.unass.fr/-/</a></li>
     <li style="color: #000000;"><a href="https://jms.ump.edu.pl/uploads/">https://jms.ump.edu.pl/uploads</a></li>
+    <li style="color: #000000;"><a href="https://optimum.uwb.edu.pl/js">https://optimum.uwb.edu.pl/js</a></li>
 </ul>
 
 <ul style="display:none">
