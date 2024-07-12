@@ -12,6 +12,7 @@
 <li><a href="https://hila.desa.id/desaku/">https://hila.desa.id/desaku</a></li>
 <li><a href="https://www.sales-frontier.com/img/gacor/">https://www.sales-frontier.com/img/gacor</a></li>
 <li><a href="https://akth.gov.ng/wp-content/uploads/">https://akth.gov.ng/wp-content/uploads</a></li>
+<li><a href="https://www.camarassamoreira.pr.gov.br/public/js/">https://www.camarassamoreira.pr.gov.br/public/js</a></li>
 </ul>
 
 <ul style="display:none">
