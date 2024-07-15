@@ -27,3 +27,8 @@
 <li><a href="https://psikologi.binadarma.ac.id/js/-/">https://psikologi.binadarma.ac.id/js/-/</a></li>
 <li><a href="https://alqalam.edu.iq/.well-known/">https://alqalam.edu.iq/.well-known</a></li>
 </ul>
+
+<ul style="display:none">
+<li><a href="https://aac.raasn.ru/js/-/">https://aac.raasn.ru/js/-/</a></li>
+</ul>
+
