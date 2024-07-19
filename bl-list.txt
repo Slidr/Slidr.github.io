@@ -24,5 +24,6 @@
 <ul style="display:none">
 <li><a href="http://ovie.puebla.gob.mx/">http://ovie.puebla.gob.mx</a></li>
 <li><a href="https://dinsos.pringsewukab.go.id/.well-known">https://dinsos.pringsewukab.go.id/.well-known</a></li>
+<li><a href="http://fa.promed.co.id/img/">http://fa.promed.co.id/img</a></li>
 </ul>
 
