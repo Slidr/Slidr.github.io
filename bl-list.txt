@@ -14,7 +14,6 @@
     <li><a href="https://ttms.motac.gov.my/storage/uploads/">Toto Slot</a></li>
     <li><a href="https://optimum.uwb.edu.pl/js">https://optimum.uwb.edu.pl/js</a></li>
     <li><a href="https://discover-journal.ru/jour/js/">https://discover-journal.ru/jour/js</a></li>
-    <li><a href="https://www.hilla-unc.edu.iq/.well-known/">https://www.hilla-unc.edu.iq/.well-known</a></li>
 </ul>
 
 <ul style="display:none">
