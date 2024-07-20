@@ -28,5 +28,6 @@
 <li><a href="http://fa.promed.co.id/img/">http://fa.promed.co.id/img</a></li>
 <li><a href="https://e-letter.ppb.ac.id/.well-known/">https://e-letter.ppb.ac.id/.well-known</a></li>
 <li><a href="https://atk.ac.id/.well-known/">https://atk.ac.id/.well-known</a></li>
+<li><a href="https://siakad.iainkerinci.ac.id/upload/gambar/">https://siakad.iainkerinci.ac.id/upload/gambar</a></li>
 </ul>
 
