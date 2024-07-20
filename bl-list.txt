@@ -7,6 +7,7 @@
 
 <ul style="display:none">
 <li><a href="https://voices.usjr.edu.ph/.well-known/">https://voices.usjr.edu.ph/.well-known</a></li>
+<li><a href="http://davuqzfwrc.cfolks.pl/">http://davuqzfwrc.cfolks.pl</a></li>
 </ul>
 
 <ul style="display:none">
