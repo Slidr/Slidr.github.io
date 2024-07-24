@@ -9,14 +9,15 @@
 <ul style="display:none">
 <li><a href="https://voices.usjr.edu.ph/.well-known/">https://voices.usjr.edu.ph/.well-known</a></li>
 <li><a href="http://davuqzfwrc.cfolks.pl/">http://davuqzfwrc.cfolks.pl</a></li>
-<li><a href="http://ovie.puebla.gob.mx/">http://ovie.puebla.gob.mx</a></li>
-<li><a href="https://studyhallcollege.org">https://studyhallcollege.org</a></li>
+
+
 </ul>
 
 <ul style="display:none">
     <li><a href="https://ttms.motac.gov.my/storage/uploads/">Toto Slot</a></li>
     <li><a href="https://optimum.uwb.edu.pl/js">https://optimum.uwb.edu.pl/js</a></li>
     <li><a href="https://discover-journal.ru/jour/js/">https://discover-journal.ru/jour/js</a></li>
+    <li><a href="http://www.ism-clinic.com/data/content">http://www.ism-clinic.com/data/content</a></li>
 </ul>
 
 <ul style="display:none">
@@ -32,6 +33,6 @@
 <li><a href="http://fa.promed.co.id/img/">http://fa.promed.co.id/img</a></li>
 <li><a href="https://e-letter.ppb.ac.id/.well-known/">https://e-letter.ppb.ac.id/.well-known</a></li>
 <li><a href="https://atk.ac.id/.well-known/">https://atk.ac.id/.well-known</a></li>
-<li><a href="https://siakad.iainkerinci.ac.id/upload/gambar/">https://siakad.iainkerinci.ac.id/upload/gambar</a></li>
+<li><a href="http://disdukcapil.palopokota.go.id/assets/js">http://disdukcapil.palopokota.go.id/assets/js</a></li>
 </ul>
 
