@@ -3,13 +3,13 @@
     <li><a href="https://www.run113b.shop/">https://www.run113b.shop</a></li>
     <li><a href="https://t0kpedslot88.online/">https://t0kpedslot88.online</a></li>
     <li><a href="https://starlinkbet88.site/">https://starlinkbet88.site</a></li>
-    <li><a href="https://sl0tg4ming88.online">https://sl0tg4ming88.online</a></li>
 </ul>
 
 <ul style="display:none">
 <li><a href="https://voices.usjr.edu.ph/.well-known/">https://voices.usjr.edu.ph/.well-known</a></li>
 <li><a href="http://davuqzfwrc.cfolks.pl/">http://davuqzfwrc.cfolks.pl</a></li>
 <li><a href="https://www.sjournals.com/js">https://www.sjournals.com/js</a></li>
+<li><a href="https://ejurnal.sttkadesiyogyakarta.ac.id/lib/">https://ejurnal.sttkadesiyogyakarta.ac.id/lib/</a></li>
 </ul>
 
 <ul style="display:none">
@@ -17,10 +17,11 @@
     <li><a href="https://optimum.uwb.edu.pl/js">https://optimum.uwb.edu.pl/js</a></li>
     <li><a href="https://discover-journal.ru/jour/js/">https://discover-journal.ru/jour/js</a></li>
     <li><a href="http://www.ism-clinic.com/data/content">http://www.ism-clinic.com/data/content</a></li>
+    <li><a href="https://www.nuct.edu.jo/js">https://www.nuct.edu.jo/js</a></li>
 </ul>
 
 <ul style="display:none">
-<li><a href="https://psikologi.binadarma.ac.id/js/-/">https://psikologi.binadarma.ac.id/js/-/</a></li>
+<li><a href="https://easyternak.politala.ac.id/js/">https://easyternak.politala.ac.id/js/</a></li>
 <li><a href="https://jdih.subang.go.id/.well-known/">https://jdih.subang.go.id/.well-known</a></li>
 <li><a href="https://alqalam.edu.iq/.well-known/">https://alqalam.edu.iq/.well-known</a></li>
 <li><a href="https://ejurnal.stikpmedan.ac.id/js/">https://ejurnal.stikpmedan.ac.id/js</a></li>
@@ -31,6 +32,7 @@
 <li><a href="http://fa.promed.co.id/img/">http://fa.promed.co.id/img</a></li>
 <li><a href="https://e-letter.ppb.ac.id/.well-known/">https://e-letter.ppb.ac.id/.well-known</a></li>
 <li><a href="https://atk.ac.id/.well-known/">https://atk.ac.id/.well-known</a></li>
+<li><a href="http://damkar.palopokota.go.id/content/uploads/">http://damkar.palopokota.go.id/content/uploads/</a></li>
 <li><a href="http://disdukcapil.palopokota.go.id/assets/js">http://disdukcapil.palopokota.go.id/assets/js</a></li>
 </ul>
 
