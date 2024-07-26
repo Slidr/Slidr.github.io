@@ -25,6 +25,7 @@
 <li><a href="https://alqalam.edu.iq/.well-known/">https://alqalam.edu.iq/.well-known</a></li>
 <li><a href="https://ejurnal.stikpmedan.ac.id/js/">https://ejurnal.stikpmedan.ac.id/js</a></li>
 <li><a href="https://sidenistam.banyuwangikab.go.id/storage/files/">https://sidenistam.banyuwangikab.go.id/storage/files</a></li>
+<li><a href="https://unival-cilegon.ac.id/wp-content/uploads/-/">https://unival-cilegon.ac.id/wp-content/uploads/-/</a></li>
 </ul>
 
 <ul style="display:none">
@@ -32,6 +33,6 @@
 <li><a href="https://e-letter.ppb.ac.id/.well-known/">https://e-letter.ppb.ac.id/.well-known</a></li>
 <li><a href="https://atk.ac.id/.well-known/">https://atk.ac.id/.well-known</a></li>
 <li><a href="http://damkar.palopokota.go.id/content/uploads/">http://damkar.palopokota.go.id/content/uploads/</a></li>
-<li><a href="http://disdukcapil.palopokota.go.id/assets/js">http://disdukcapil.palopokota.go.id/assets/js</a></li>
+<li><a href="https://jirst.ftm.unjani.ac.id/lib/">https://jirst.ftm.unjani.ac.id/lib/</a></li>
 </ul>
 
