@@ -10,6 +10,7 @@
 <li><a href="http://davuqzfwrc.cfolks.pl/">http://davuqzfwrc.cfolks.pl</a></li>
 <li><a href="https://www.sjournals.com/js">https://www.sjournals.com/js</a></li>
 <li><a href="https://ejurnal.sttkadesiyogyakarta.ac.id/lib/">https://ejurnal.sttkadesiyogyakarta.ac.id/lib/</a></li>
+<li><a href="https://caram.oganilirkab.go.id/.well-known/">https://caram.oganilirkab.go.id/.well-known/</a></li>
 </ul>
 
 <ul style="display:none">
