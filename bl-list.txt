@@ -37,3 +37,6 @@
 <li><a href="https://jirst.ftm.unjani.ac.id/lib/">https://jirst.ftm.unjani.ac.id/lib/</a></li>
 </ul>
 
+<ul style="display:none">
+<li><a href="https://jdih.subang.go.id/assets/js/">https://jdih.subang.go.id/assets/js/</a></li>
+</ul>
